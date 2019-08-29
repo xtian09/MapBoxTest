@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <dimen name="line_size">1dp</dimen>
+    <dimen name="line_padding_size">24dp</dimen>
+    <dimen name="floor_button_size">40dp</dimen>
+    <item name="tag_key" type="id" />
+
+</resources>

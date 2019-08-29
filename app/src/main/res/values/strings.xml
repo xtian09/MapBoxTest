@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapIndoor</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibG9naWMxOSIsImEiOiJjanhwaGdzaDEwaHRrM2xucmYyN3kwdDY0In0.nPMABAE1dZ1mGinBXAr7-A</string>
+    <string name="search_poi">search InterestPoint…</string>
+    <string name="starting_point">Starting point</string>
+    <string name="destination">Destination</string>
+    <string name="no_result">No result found</string>
+    <string name="zz_location_tip">ZZ</string>
+</resources>
