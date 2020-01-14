@@ -1,7 +1,8 @@
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 'Google Inc.:Google APIs:12'
+//    compileSdkVersion 'Google Inc.:Google APIs:12'
+    compileSdkVersion 28
     buildToolsVersion "28.0.3"
 
     defaultConfig {
@@ -9,7 +10,7 @@ android {
         targetSdkVersion 28
 
         testApplicationId "com.spatialite.test"
-        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+//        testInstrumentationRunner "android.test.InstrumentationTestRunner"
     }
 
     buildTypes {

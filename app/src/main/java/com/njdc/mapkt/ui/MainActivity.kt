@@ -6,6 +6,7 @@ import android.graphics.Color
 import android.os.Bundle
 import android.os.Environment
 import android.view.View
+import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import com.mapbox.geojson.Point
 import com.mapbox.geojson.Polygon
@@ -49,7 +50,7 @@ import java.io.IOException
 import java.lang.reflect.Field
 import java.util.*
 
-class MainActivity : BaseActivity() {
+class MainActivity : AppCompatActivity() {
 
     companion object {
         // DataBase
